@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alain. I am a Senior Data Scientist at Conviva. 
-- 👀 I’m interested in statistics and computational data analytics. 
+- 👀 I’m interested in statistics and data analytics. 
 - 📫 You can reach me from my website: https://alain-vandormael.netlify.app/ 
 
 <!---
